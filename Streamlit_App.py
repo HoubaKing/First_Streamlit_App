@@ -1,5 +1,5 @@
 import streamlit
-import Pandas
+import pandas
 streamlit.title('New Parents Dinner')
 
 streamlit.header('Breakfast Menu')
